@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_system=self.webpackChunkdesign_system||[]).push([[283],{283:(e,s,f)=>{f.r(s),f.d(s,{default:()=>t});const t=(0,f(753).create)(e=>({color:"#ffffff",setColor:s=>e({color:s})}))}}]);

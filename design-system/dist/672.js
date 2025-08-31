@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_system=self.webpackChunkdesign_system||[]).push([[672],{672:(e,t,n)=>{n.r(t),n.d(t,{default:()=>d});var s=n(782),l=n.n(s);n(594);const d=({children:e,onClick:t})=>l().createElement("button",{onClick:t,className:"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300"},e)}}]);
